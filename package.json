@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "git": "^0.1.5",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
